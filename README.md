@@ -12,6 +12,11 @@ It displays our skills in using HTML5, CSS3 and configuring `stylelint` to ensur
 - HTML5
 - CSS3
 
+## Authors
+
+- https://github.com/Samkiroko
+- https://github.com/codecell
+
 ## Live Demo
 
 [Live Demo](https://sign-up-mint.netlify.com/)
