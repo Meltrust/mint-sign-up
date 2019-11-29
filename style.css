@@ -58,17 +58,19 @@ nav {
 }
 
 .sign-up-btn {
+  border: 1px solid #0077c5;
+  border-bottom: 1.5px solid #555;
+  box-sizing: content-box;
   color: #fff;
   cursor: pointer;
-  box-sizing: content-box;
   display: inline-block;
   font-size: 16px;
-  height: 44px;
+  height: 35px;
   line-height: 1.4285;
   margin-left: 6px;
-  padding: 6px 12px;
+  padding: 5px 10px;
   text-transform: capitalize;
-  width: 100%;
+  width: 94%;
 }
 
 /* main logo  on the form css */
@@ -275,7 +277,6 @@ fieldset {
   border: 1px solid #c7c7c7;
   border-top: none;
   box-sizing: content-box;
-  display: block;
   margin: 0 auto;
   padding: 30px;
   text-align: center;
